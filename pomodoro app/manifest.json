@@ -1,0 +1,10 @@
+{
+    "name": "PoMoDoRo Timer",
+    "description": "start timer and get focused",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"hourglass.png"
+    }
+}
